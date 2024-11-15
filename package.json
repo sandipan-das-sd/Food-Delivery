@@ -41,6 +41,6 @@
     "preset": "react-native"
   },
   "projectConfig": {
-    "backendApiBaseUrl": "<put the backend api base url here>"
+    "backendApiBaseUrl": "https://gyanoda.in/api/v1"
   }
 }
